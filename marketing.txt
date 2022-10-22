@@ -1,1 +1,3 @@
 Estoy probando nuevamente estos archivos para usar GIT y aprender
+
+Git es una herramienta sumamente util para tener diferentes versiones
