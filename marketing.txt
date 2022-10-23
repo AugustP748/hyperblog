@@ -7,3 +7,9 @@ Ahora hablaremos un poco de python, este lenguaje lo amo, es multiparadigma, en 
 con python podemos fabricar inteligencia artificial, lo cual requiere tener conocimiento de unos temas matematicos
 
 aqui entra el tema de derivadas y gradiente para realizar el descenso del gradiente para la prediccion de la IA
+
+ESTO SE VA Lorem ipsum dolor sit amet consectetur adipiscing elit sociis, luctus dui fusce nulla et nibh mattis 
+maecenas neque, orci curabitur parturient metus nunc molestie volutpat. Parturient magna dignissim augue facilisi 
+ut ullamcorper taciti penatibus malesuada tempus facilisis feugiat nisl, suspendisse cubilia duis semper auctor platea 
+nostra nullam felis id vivamus. Condimentum imperdiet faucibus risus ultrices pretium natoque mus himenaeos dignissim, 
+arcu erat vehicula mi platea hendrerit laoreet congue cursus orci, nostra rhoncus quis duis egestas sagittis nam cubilia
