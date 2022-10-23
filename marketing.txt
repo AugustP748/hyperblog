@@ -5,3 +5,5 @@ Git es una herramienta sumamente util para tener diferentes versiones
 Ahora hablaremos un poco de python, este lenguaje lo amo, es multiparadigma, en breve hablaremos mas
 
 con python podemos fabricar inteligencia artificial, lo cual requiere tener conocimiento de unos temas matematicos
+
+aqui entra el tema de derivadas y gradiente para realizar el descenso del gradiente para la prediccion de la IA
